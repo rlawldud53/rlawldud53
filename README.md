@@ -22,4 +22,4 @@ Artificial Intelligence 분야와 웹 개발 중 Back-End에 관심이 있는 �
 ## 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-|이브와 ICT 멘토링 공모전 |동|Dec 3, 2021|
+|이브와 ICT 멘토링 공모전 |동상|Dec 3, 2021|
