@@ -7,7 +7,7 @@
 
 Artificial Intelligence 분야와 웹 개발 중 Back-End에 관심이 있는 편입니다. CVLAB에서 컴퓨터 비전에 대해 깊이 있게 공부하고 있는 편이고 NLP나 추천시스템 등 다양한 분야로 관심사를 넓히려 노력 중입니다. 또한 인공지능 모델을 서비스하는 API를 만들어 보고 싶다는 생각을 계기로, 웹 개발 공부도 하고 싶다는 생각을 평소에 해왔습니다. 데이터베이스, 분산 스토리지, 그리고 서버리스 등 공부해보고 싶은 분야가 많습니다!
 
-## 🛠️ Language I've used/learned
+## 🛠️ Language I've Used/Learned
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Ocaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 
