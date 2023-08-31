@@ -1,6 +1,6 @@
 ### Hi Welcome, 저는 JEEYOUNG KIM이라고 합니다 👋
 
-#### Korea University CS 20
+#### Korea University CSE 20
 안녕하세요! 저는 현재 고려대학교 컴퓨터학과에 재학 중인 20학번 김지영이라고 합니다.현재 3학년 2학기에 재학 중이며 자교 CVLAB(컴퓨터비전연구실)에서 학부연구생 생활을 하고 있습니다. 
 
 ## 🐱 Filelds of Interest &nbsp;
