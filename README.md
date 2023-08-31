@@ -26,4 +26,4 @@ Artificial Intelligence 분야와 웹 개발 중 Back-End에 관심이 있는 �
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawldud53&langs_count=10&layout=compact&theme=dark)](https://github.com/rlawldud53/rlawldud53.git))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawldud53&langs_count=10&layout=compact&theme=dark)](https://github.com/rlawldud53/rlawldud53.git)
